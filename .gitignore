@@ -1,5 +1,4 @@
-idea
-.idea/vcs.xml
+.idea
 .gradle
 out
 build
